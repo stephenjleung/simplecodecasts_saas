@@ -11,7 +11,18 @@
 }
 
 .well.profile-description {
-    color: #fff;
     background-color: #5cb85c;
     border-color: #5cb85c;
+}
+
+.well.contact-info {
+    background-color: #5bc0de;
+    border-color: #5bc0de;
+}
+
+.well.profile-block {
+    color: #fff;
+    h3 {
+        margin-top: 0;
+    }
 }
